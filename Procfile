@@ -1,1 +1,1 @@
-web: gunicorn mi_portafolio.wsg
+web: gunicorn proyecto_django.wsgi
